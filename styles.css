@@ -301,14 +301,15 @@ nav ul li a:hover {
 }
 
 #project1 {
-  background-image: url(./Images/projects/Project1.png);
+  background-image: url(./Images/projects/food.png);
   right: 5%;
 }
 
 #project2 {
-  background-image: url(./Images/projects/Project2.png);
+  background-image: url(./Images/projects/event.png );
   left: 5%;
-}
+   
+}  
 
 #project3 {
   background-image: url(./Images/projects/Project3.png);
